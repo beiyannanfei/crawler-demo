@@ -1,0 +1,24 @@
+{
+  "name": "crawler-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beiyannanfei/crawler-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beiyannanfei/crawler-demo/issues"
+  },
+  "homepage": "https://github.com/beiyannanfei/crawler-demo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "superagent": "^3.5.2",
+    "url": "^0.11.0"
+  }
+}
